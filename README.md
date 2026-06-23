@@ -91,6 +91,11 @@ The SQL script includes:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_screenshot.png)
+
+---
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
